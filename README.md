@@ -61,4 +61,3 @@ MIT @ [AppSeed](https://appseed.us)
 
 ---
 Material Kit React - provided by AppSeed [App Generator](https://appseed.us)
-
